@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Sébastien Crouzet's homepage
-description: This is the homepage of Sébastien Crouzet
+title: Sébastien Crouzet
+description:
 github_username: scrouzet
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: seb.crouzet@gmail.com
+twitter_username: @sebcrzt
 
 # Set this to true to get LaTeX math equation support
 use_math:
