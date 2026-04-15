@@ -1,0 +1,38 @@
+.buttondown-signup {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.buttondown-signup h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.buttondown-signup p {
+  margin-top: 0;
+}
+
+.buttondown-signup form {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.buttondown-signup input[type="email"] {
+  flex: 1 1 220px;
+  min-width: 220px;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--theme);
+  color: var(--primary);
+}
+
+.buttondown-signup button {
+  padding: 0.5rem 0.8rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+}
