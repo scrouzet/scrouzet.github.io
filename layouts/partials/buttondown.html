@@ -1,0 +1,23 @@
+{{ $cfg := .Site.Params.buttondown }}
+{{ if and $cfg $cfg.username }}
+<section class="buttondown-signup">
+  <h3>{{ default "Newsletter" $cfg.title }}</h3>
+  <p>{{ default "Recevoir les nouveaux articles par email." $cfg.description }}</p>
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/{{ $cfg.username }}"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/{{ $cfg.username }}', 'popupwindow')"
+  >
+    <input
+      type="email"
+      name="email"
+      id="bd-email"
+      placeholder="{{ default `you@example.com` $cfg.placeholder }}"
+      required
+    />
+    <input type="hidden" value="{{ default `https://buttondown.email` $cfg.successRedirect }}" name="success_url" />
+    <button type="submit">{{ default "Subscribe" $cfg.buttonLabel }}</button>
+  </form>
+</section>
+{{ end }}
