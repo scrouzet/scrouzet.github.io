@@ -2,4 +2,7 @@
 title: "A propos"
 ---
 
-Apres une these et plusieurs post-doc a travailler dans les neurosciences de la vision, j'ai bifurque dans le prive, d'abord pour etre consultant en data science, maintenant pour faire de la R&D pour rendre les algorithmes d'IA plus sobres.
+Pendant une bonne partie de ma vie, je me suis destiné professionnellement à la recherche en neurosciences. J’ai fait une thèse, puis plusieurs post-docs, ce qui m’a permis de voyager et de vivre notamment à Providence (États‑Unis) et à Berlin (Allemagne). Franchement, c’était super. Mais les postes au CNRS étant ce qu’ils sont, arrivé à 35 ans, et avec l’IA et le machine learning (qui faisaient déjà partie de ma pratique scientifique) devenus très à la mode, j’ai fini par bifurquer vers le privé.
+D’abord dans un cabinet de conseil en data science (disons… bof), puis dans une startup d’IA pour faire de la recherche en IA frugale. Intellectuellement, c’était vraiment chouette, mais disons que les perspectives et les débouchés de ce travail n’étaient pas très alignés avec mes aspirations personnelles.
+Et puis, un peu après 40 ans, j’ai de nouveau bifurqué — au sens plus actuel du terme dans la sphère écolo — vers l’action publique en faveur de la transition, transformation, ou comme vous voulez l’appeler, écologique. Parce que c’est là que j’ai envie d’agir, et aussi là où je pense avoir quelques compétences utiles, et pas trop mal mobilisables.
+Ce blog est simplement là pour accueillir mes élucubrations. Il n’engage personne, pas même moi, puisque ce seront souvent des réflexions pas entièrement cuites. Mais j’avais envie d’écrire des choses, alors je me crée cet espace.

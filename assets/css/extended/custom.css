@@ -22,3 +22,27 @@
   border-color: #dc2626;
   background: #fff1f2;
 }
+
+/* =========================================================
+   Social embeds (Twitter / Bluesky)
+   ========================================================= */
+
+.embed {
+  margin: 2rem 0;
+}
+
+.embed-twitter {
+  display: flex;
+  justify-content: center;
+}
+
+.embed-bluesky {
+  border-left: 4px solid #0284c7;
+  background: var(--entry);
+  padding: 1rem 1.25rem;
+  font-size: 0.95em;
+}
+
+.embed-bluesky blockquote {
+  margin: 0;
+}

@@ -1,0 +1,15 @@
+<!--
+Dans le markdown écrire :
+{{< bluesky "https://bsky.app/profile/exemple.bsky.social/post/3kxyzabc" >}}
+-->
+
+<div class="embed embed-bluesky">
+  <blockquote>
+    <p>
+      Publication Bluesky
+    </p>
+    <a href="{{ .Get 0 }}" target="_blank" rel="noopener noreferrer">
+      {{ .Get 0 }}
+    </a>
+  </blockquote>
+</div>
